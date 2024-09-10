@@ -1,0 +1,36 @@
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\bin\Debug\net6.0-windows\prjClinica.exe
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\bin\Debug\net6.0-windows\prjClinica.deps.json
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\bin\Debug\net6.0-windows\prjClinica.runtimeconfig.json
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\bin\Debug\net6.0-windows\prjClinica.dll
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\bin\Debug\net6.0-windows\ref\prjClinica.dll
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\bin\Debug\net6.0-windows\prjClinica.pdb
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.frmIMC.resources
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.dll
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\ref\prjClinica.dll
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.pdb
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.genruntimeconfig.cache
+C:\Users\unisanta\Desktop\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.csproj.AssemblyReference.cache
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\bin\Debug\net6.0-windows\prjClinica.exe
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\bin\Debug\net6.0-windows\prjClinica.deps.json
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\bin\Debug\net6.0-windows\prjClinica.runtimeconfig.json
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\bin\Debug\net6.0-windows\prjClinica.dll
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\bin\Debug\net6.0-windows\prjClinica.pdb
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.csproj.AssemblyReference.cache
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.frmIMC.resources
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.Properties.Resources.resources
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.csproj.GenerateResource.cache
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.AssemblyInfoInputs.cache
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.AssemblyInfo.cs
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.csproj.CoreCompileInputs.cache
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.dll
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\refint\prjClinica.dll
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.pdb
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\prjClinica.genruntimeconfig.cache
+C:\Users\gengu\OneDrive\Área de Trabalho\Projeto-clinica-C-POO-UNISANTA-master\prjClinica\obj\Debug\net6.0-windows\ref\prjClinica.dll
